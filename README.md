@@ -36,3 +36,9 @@ function doPost(e) {
     .createTextOutput(jsonResponse)
     .setMimeType(ContentService.MimeType.JSON);
 }
+
+
+
+---
+
+Would you like to include screenshots or GIFs in the README? Let me know – I can add those too! 🚀
